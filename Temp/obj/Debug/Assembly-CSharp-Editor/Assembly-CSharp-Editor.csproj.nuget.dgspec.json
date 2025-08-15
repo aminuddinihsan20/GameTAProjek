@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp-Editor.csproj": {}
+    "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp-Editor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp-Editor.csproj": {
+    "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp-Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp-Editor.csproj",
+        "projectUniqueName": "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp-Editor.csproj",
         "projectName": "Assembly-CSharp-Editor",
-        "projectPath": "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp-Editor.csproj",
+        "projectPath": "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp-Editor.csproj",
         "packagesPath": "C:\\Users\\Aminz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aminz\\My project (1)\\Temp\\obj\\Debug\\Assembly-CSharp-Editor\\",
+        "outputPath": "C:\\Users\\Aminz\\My-project--1-\\Temp\\obj\\Debug\\Assembly-CSharp-Editor\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aminz\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -23,8 +23,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp.csproj": {
-                "projectPath": "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp.csproj"
+              "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp.csproj": {
+                "projectPath": "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp.csproj": {
+    "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp.csproj",
         "projectName": "Assembly-CSharp",
-        "projectPath": "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp.csproj",
+        "projectPath": "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp.csproj",
         "packagesPath": "C:\\Users\\Aminz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aminz\\My project (1)\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+        "outputPath": "C:\\Users\\Aminz\\My-project--1-\\Temp\\obj\\Debug\\Assembly-CSharp\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aminz\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp.csproj": {}
+    "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp.csproj": {
+    "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp.csproj",
         "projectName": "Assembly-CSharp",
-        "projectPath": "C:\\Users\\Aminz\\My project (1)\\Assembly-CSharp.csproj",
+        "projectPath": "C:\\Users\\Aminz\\My-project--1-\\Assembly-CSharp.csproj",
         "packagesPath": "C:\\Users\\Aminz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aminz\\My project (1)\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+        "outputPath": "C:\\Users\\Aminz\\My-project--1-\\Temp\\obj\\Debug\\Assembly-CSharp\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aminz\\AppData\\Roaming\\NuGet\\NuGet.Config"
