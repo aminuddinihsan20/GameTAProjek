@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pohon
+  - plyaer
+  - tanah
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - tanah
+  - Water
+  - UI
+  - pohon1
+  - pohon2
+  - pohon3
+  - pohon4
+  - bush1
+  - player
+  - bush2
+  - pohon5
+  - danau
+  - 
+  - button
+  - batu2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
